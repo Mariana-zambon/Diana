@@ -11,11 +11,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Diana deve investir em sua educação. Ela economiza dinheiro de trabalhos de meio período e bolsas de estudo para pagar a faculdade sem contrair muitas dívidas.",
-                afirmacao: "afirmação"
+                afirmacao: " Na juventude Diana se gradua e constrói um currículo exemplar."
             },
             {
                 texto: "Diana deve gastar impulsivamente seu dinheiro com roupas e festas, negligenciando a importância da educação e das economias.",
-                afirmacao: "afirmação"
+                afirmacao: "Na juventude Diana foi imprudente, resultando em um currículo pobre e pouco chamativo."
             }
         ]
     },
@@ -23,12 +23,12 @@ const perguntas = [
         enunciado: "Diana inicia sua carreira, qual a escolha ela deve tomar? ",
         alternativas: [
             {
-                texto: "Diana deve viver de forma modesta e economizar uma parte significativa de seu salário. Ela investe em uma carteira diversificada de ações e fundos, o que aumenta seu patrimônio ao longo do tempo, proporcionando segurança financeira.",
-                afirmacao: "afirmação"
+                texto: "Diana deve escolher viver acima das suas possibilidades, comprando um carro caro e morando em um apartamento luxuoso, financiando tudo com cartões de crédito.",
+                afirmacao: "No inicio de sua carreia, ela gasta sem pensar nas consequências, se individando."
             },
             {
-                texto: "Diana deve escolher viver acima das suas possibilidades, comprando um carro caro e morando em um apartamento luxuoso, financiando tudo com cartões de crédito.",
-                afirmacao: "afirmação"
+                texto: "Diana deve viver de forma modesta e economizar uma parte significativa de seu salário. Ela investe em uma carteira diversificada de ações e fundos, o que aumenta seu patrimônio ao longo do tempo, proporcionando segurança financeira.",
+                afirmacao: "No início de sua carreira, Diana escolhe enocomizar e investir sabiamente, aumentando o seu patrimônio."
             }
         ]
     },
@@ -37,11 +37,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Na meia-idade, Diana deve priorizar seu futuro financeiro. Ela contribui regularmente para um plano de aposentadoria e busca a orientação de um consultor financeiro para garantir que seus investimentos estejam alinhados com seus objetivos de longo prazo.",
-                afirmacao: "afirmação"
+                afirmacao: "Na meia-idade, ela pensa em seu futuro, investindo em sua futura aposentadoria."
             },
             {
                 texto: "Diana pode optar por ignorar a importância da poupança para a aposentadoria, preferindo gastar seus recursos em viagens e bens de consumo de luxo.",
-                afirmacao: "afirmação"
+                afirmacao: "Na meia-idade, ela não da importâncias a sua aposentadoria, a deixando sem fundos para essa fase. "
             }
         ]
     },
@@ -50,11 +50,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Perto da aposentadoria, Diana deve realizar um esforço consciente para pagar todas as suas dívidas. Ela quita o financiamento da casa e elimina quaisquer empréstimos pendentes.",
-                afirmacao: "afirmação"
+                afirmacao: "Perto de se aposentar, Diana quita todas as suas dívidas, se preaparando para uma velhice tranquila."
             },
             {
                 texto: "Diana deve continuar a acumular dívidas, refinanciando sua casa para pagar outras despesas e contraindo novos empréstimos.",
-                afirmacao: "afirmação"
+                afirmacao: "Perto de se aposentar, Diana se enterra em dívidas, ficando sem nenhuma poupança para a aposentadoria."
             }
         ]
     },
@@ -62,12 +62,12 @@ const perguntas = [
         enunciado: "Diana finalmente começou a receber a sua aposentadoria, qual caminho ela deve seguir?",
         alternativas: [
             {
-                texto: "Já aposentada, Diana deve adotar um orçamento rigoroso para garantir que suas economias e investimentos durem pelo resto de sua vida. Ela prioriza gastos essenciais e desfruta de uma vida confortável, mas frugal, sem se preocupar em ficar sem dinheiro.",
-                afirmacao: "afirmação"
+                texto: "Diana deve gastar seu dinheiro sem um plano claro, retirando grandes quantias para viagens e luxos",
+                afirmacao: "Já aposentada, ela esgota rapidamente suas economias, por não seguir um plano claro e eficiênte."
             },
             {
-                texto: "Diana poderia decidir gastar seu dinheiro sem um plano claro, retirando grandes quantias para viagens e luxos.",
-                afirmacao: "afirmação"
+                texto: "Já aposentada, Diana deve adotar um orçamento rigoroso para garantir que suas economias e investimentos durem pelo resto de sua vida. Ela prioriza gastos essenciais e desfruta de uma vida confortável, mas frugal, sem se preocupar em ficar sem dinheiro.",
+                afirmacao: " Já aposentada, ela faz escolhas sábias, granatindo uma vida confortável e estável."
             }
         ]
     },
