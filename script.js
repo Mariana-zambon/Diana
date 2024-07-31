@@ -11,11 +11,18 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Diana deve investir em sua educação. Ela economiza dinheiro de trabalhos de meio período e bolsas de estudo para pagar a faculdade sem contrair muitas dívidas.",
-                afirmacao: " Na juventude Diana fez cursos e construiu um currículo exemplar."
+                afirmacao: [" Na juventude Diana fez cursos e construiu um currículo exemplar.",
+                            "Na juventude, Diana eonomizou sabiamente e evitou dívidas.",
+                            "Durante a juventude, Diana decidiu viver de forma modesta e poupar dinheiro."
+            ]
+
             },
             {
                 texto: "Diana deve gastar impulsivamente seu dinheiro com roupas e festas, negligenciando a importância da educação e das economias.",
-                afirmacao: "Na juventude Diana foi imprudente, resultando em um currículo pobre e pouco chamativo."
+                afirmacao: ["Na juventude Diana foi imprudente, resultando em um currículo pobre e pouco chamativo.",
+                            "Na juventude, Diana gastou impulsivamente, acumulando dívidas significativas.",
+                            "Na juventude, Diana foi descuidada com suas finanças, gerando estresse e insegurança.",
+            ]
             }
         ]
     },
@@ -24,11 +31,20 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Diana deve escolher viver acima das suas possibilidades, comprando um carro caro e morando em um apartamento luxuoso, financiando tudo com cartões de crédito.",
-                afirmacao: "No inicio de sua carreia, ela gastou sem pensar nas consequências, se individando."
+                afirmacao: ["No inicio de sua carreia, ela gastou sem pensar nas consequências, se individando.",
+                            "No início de sua carreira, ela comprou um carro muito caro e se endividou.",
+                            "No início de sua carreira, ela fez escolhas imprudentes e se endividou.",
+
+            ]
             },
             {
                 texto: "Diana deve viver de forma modesta e economizar uma parte significativa de seu salário. Ela investe em uma carteira diversificada de ações e fundos, o que aumenta seu patrimônio ao longo do tempo, proporcionando segurança financeira.",
-                afirmacao: "No início de sua carreira, Diana escolheu economizar e investir sabiamente, aumentando o seu patrimônio."
+                afirmacao: ["No início de sua carreira, ela escolheu economizar e investir sabiamente, aumentando o seu patrimônio.",
+                            "No início de sua carreira, ela viveu modestamente e poupou dinheiro",
+                            "No início da carreira, ela investiu em ações e funfos mútuos",
+            
+            ]
+                            
             }
         ]
     },
@@ -37,7 +53,10 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Na meia-idade, Diana deve priorizar seu futuro financeiro. Ela contribui regularmente para um plano de aposentadoria e busca a orientação de um consultor financeiro para garantir que seus investimentos estejam alinhados com seus objetivos de longo prazo.",
-                afirmacao: "Na meia-idade, ela pensou em seu futuro, investindo em sua futura aposentadoria."
+                afirmacao: ["Na meia-idade, Diana pensou em seu futuro, investindo em sua futura aposentadoria.",
+                            "Na meia-idade, Diana focou no futuro, aumentando suas contribuiçẽs para a aposentadoria.",
+                            "Na meia-idade, Diana priorizou seu futuro financeiro, economizando para a aposentadoria.",
+            ]
             },
             {
                 texto: "Diana pode optar por ignorar a importância da poupança para a aposentadoria, preferindo gastar seus recursos em viagens e bens de consumo de luxo.",
